@@ -1,6 +1,6 @@
 ## Carcare
 
-### Prerequisite
+### Prerequisites
 
 - Npm
 - Go
